@@ -1,0 +1,23 @@
+This experiment was about building a simple Employee Management System that runs directly in the command line using Node.js.
+ Instead of using a database, we stored everything in an array and allowed the user to interact with the system step by step.
+The application works like a mini menu-driven program where we can manage employees during a session.
+
+Key features implemented:
+
+Add a new employee by entering their Name and ID.
+
+View a list of all employees stored in the array.
+
+Remove an employee using their ID.
+
+Exit the program whenever needed.
+
+Learning Outcomes
+
+Understood how to take user input interactively using the readline module.
+
+Learned how to perform basic array operations (add, display, delete).
+
+Practiced writing a menu-driven program in Node.js.
+
+Gained confidence in handling in-memory data without databases.
